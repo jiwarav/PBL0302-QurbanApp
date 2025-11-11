@@ -1,0 +1,28 @@
+#root {
+    max-width: auto;
+    margin: 0 auto;
+    /* background-color: rgb(255, 200, 127); */
+    /* background-image: url(../assets/home_page.webp);
+    background-repeat: no-repeat;
+    background-size: auto 1000px; */
+}
+
+img {
+    border-radius: 12%;
+}
+
+h1 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-family: 'tajawal';
+    font-size: 5rem;
+    text-align: center
+}
+
+p {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-family: 'tajawal';
+    font-size: 2rem;
+    text-align: center
+}

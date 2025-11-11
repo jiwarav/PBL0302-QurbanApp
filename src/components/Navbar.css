@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    font-family: 'tajawal';
+    font-size: 20px;
+    box-shadow: 5px 5px 10px #00000029;
+    background-color: hsl(135, 70%, 67%);
+}
+
+.container-fluid {
+    background-color: #70e68d;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+    margin-left: 1rem;
+}
+
+.nav-link:hover {
+    background-color: #0000001f;
+    border-radius: 25px;
+    color: #f0d957;
+}
